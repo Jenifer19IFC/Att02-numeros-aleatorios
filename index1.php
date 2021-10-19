@@ -27,8 +27,9 @@
 <?php include "menu.php";?>
     <h1>Jogo de Dados</h1>
 <form action="" method="POST">
-    <input type="submit" value="Jogar">
+    <input type="submit" value="JOGAR">
 </form>
+    <br>
     Usuário:
     <br>
     <?php echo "<img src='img/dados/$user1.png' alt=''>";

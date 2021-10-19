@@ -63,7 +63,6 @@
             <option value="10">10</option>         
     </select> <br>
     <br>
-    <br>
     <input type="radio" name="userpi" id="userpi" value="0">Par<br>
     <input type="radio" name="userpi" id="userpi" value="1">Ímpar <br>
     <br>
